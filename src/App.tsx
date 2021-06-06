@@ -1,5 +1,7 @@
 import React, { ReactElement } from "react";
 import { Route, HashRouter } from "react-router-dom";
+import dotenv from "dotenv";
+dotenv.config();
 
 const repository = "template-react";
 
