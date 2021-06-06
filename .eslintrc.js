@@ -18,6 +18,5 @@ module.exports = {
   ],
   rules: {
     "prettier/prettier": 0,
-    printWidth: 80,
   },
 };
